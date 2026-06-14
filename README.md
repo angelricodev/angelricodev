@@ -1,10 +1,11 @@
 ## Hi, I'm Ángel 👋
 
-Backend developer based in Boyacá, Colombia. I build with **Java + Spring Boot**, 
-and I'm rounding out my full-stack skills with **React**.
+Software developer from Colombia. I studied **Software Analysis & Development**, 
+and what I do best is turning real-world problems into well-designed software — 
+requirements analysis, system design, and clear documentation.
 
-I care about clean architecture and understanding the *why* behind every 
-decision — not just shipping code that works, but code that's built to last.
+Right now I'm building a real system end-to-end with **Spring Boot + React**, 
+and deepening my backend skills with the Spring ecosystem along the way.
 
 ### 🛠️ Stack
 
@@ -20,14 +21,15 @@ Also familiar with MySQL, MongoDB · Tools: IntelliJ IDEA, VS Code, Postman
 ### 🌱 What I'm building
 
 A Progressive Web App for laboratory quality management — 
-a **real system built for a company, not a tutorial project**.
+a **real system for a company, built from the ground up, not a tutorial project**.
 
-- **Backend:** Spring Boot REST API · Spring Data JPA / Hibernate · 
-  Spring Security with JWT + refresh tokens · PostgreSQL
+It started with the part I enjoy most: a full **requirements analysis** and 
+**software design** — use cases, entity-relationship modeling, and ISO/IEC 25010 
+quality attributes. From there I'm building it out:
+
+- **Backend:** Spring Boot REST API · Spring Data JPA · JWT authentication · PostgreSQL
 - **Frontend:** React + Vite (PWA)
-- **Infra:** Dockerized for consistent local & deployment environments
-- **Quality:** repository/persistence testing · grounded in real requirements 
-  engineering (use-case & entity-relationship modeling, ISO/IEC 25010)
+- **Infra:** Dockerized for consistent environments
 
 ### 📫 Get in touch
 
