@@ -34,3 +34,4 @@ quality attributes. From there I'm building it out:
 ### 📫 Get in touch
 
 - 📧 angel.rico.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/angelricodev)
